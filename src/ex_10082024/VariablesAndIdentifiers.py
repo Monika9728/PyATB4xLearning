@@ -15,3 +15,10 @@ age = 65
 print(age)
 age = 90
 print(age)
+name1 = "Monika"
+print(name1)
+name2 = "Chachinda"
+print(name2)
+name = name1 + " " + name2
+print(name)
+

@@ -18,3 +18,6 @@ remainder = a / b
 division = c / b
 print(remainder)
 print(division)
+# Average
+avg = (a + b + c)/2
+print(avg)

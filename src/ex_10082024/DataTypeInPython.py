@@ -1,10 +1,18 @@
+""" We don't need to declare a variable in Python.
+It automatically identify the type
+"""
 age = 65
 a = 10
 _ = 45
 _ = +1
 print(_)
-# abc123 =
-# $123 = 900
+age = 1.4
+print(age)
+""" we can assign the value later ,The first value will be deleted and 
+new value will be occupied
+"""
+# abc123 = not allowed
+# $123 = 900 not allowed
 print(type(age))
 name = "Monika Chachinda"
 print(name)
@@ -19,6 +27,6 @@ print(type(The_Mixed_List))
 Is_Today_Sunday = False
 print(Is_Today_Sunday)
 print(type(Is_Today_Sunday))
-Complex_Number = pi+2j
+Complex_Number = pi + 2j
 print(Complex_Number)
 print(type(Complex_Number))
